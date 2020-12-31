@@ -28,7 +28,7 @@ rails s
 
 ```
 
-Visiting localhost:3000 should now provide you with the error:
+Visiting http://localhost:3000/activities should now provide you with the error:
 
 `Invalid single-table inheritance type: User::Admin is not a subclass of User`
 
